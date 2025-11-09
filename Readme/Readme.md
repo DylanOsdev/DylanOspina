@@ -24,9 +24,12 @@
 
 </div>
 
+</div>
+
 <div align="center">
 
-```javascript
+<pre>
+<code>
 ┌─────────────────────────────────────────────┐
 │  LOADING PROFILE...                         │
 │  ████████████████████████████████ 100%      │
@@ -40,10 +43,8 @@ const Dylan = {
 };
 
 console.log("✨ Ready for new challenges! ✨");
-```
-<img src="./images/ZaiV.gif" width="100" />
-
-
+</code>
+</pre>
 
 </div>
 
@@ -122,3 +123,4 @@ console.log("✨ Ready for new challenges! ✨");
 ██║     ███████╗██║  ██║██║ ╚████║███████╗   ██║   ██╗
 ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝
 -->
+
