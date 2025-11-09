@@ -1,8 +1,8 @@
-<!-- README Retro Gamer Ultra - DylanOspina -->
+<!-- README Retro Gamer - DylanOspina -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=60&duration=3000&pause=1000&color=AAF73F&center=true&vCenter=true&width=800&height=100&lines=DYLAN+OSPINA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=60&pause=1000&color=F7A02E&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=DYLAN+OSPINA)](https://git.io/typing-svg)
 
 <hr>
 
@@ -24,35 +24,28 @@
 
 </div>
 
+<div align="center">
+
 ```javascript
 ┌─────────────────────────────────────────────┐
 │  LOADING PROFILE...                         │
 │  ████████████████████████████████ 100%      │
 └─────────────────────────────────────────────┘
 
-class Developer {
-  constructor() {
-    this.name = "Dylan Ospina";
-    this.location = "Medellín, Colombia 🇨🇴";
-    this.role = "F👾ull Stack Developer";
-    this.level = 25;
-    this.currentQuest = "Mastering React & Node.js";
-    this.inventory = {
-      weapons: ["JavaScript", "HTML5", "CSS3", "Node.js"],
-      armor: ["Git", "GitHub", "VSCode"],
-      potions: ["Coffee ☕", "Energy Drinks ⚡"]
-    };
-  }
-  
-  levelUp() {
-    this.level++;
-    console.log("✨ NEW SKILL UNLOCKED! ✨");
-  }
-}
+const Dylan = {
+  role: "Full Stack Developer",
+  location: "Medellín, Colombia 🇨🇴",
+  level: 18,
+  status: "Building awesome stuff! 🚀"
+};
 
-const player = new Developer();
-player.levelUp(); // Ready for new challenges!
+console.log("✨ Ready for new challenges! ✨");
 ```
+<img src="./images/ZaiV.gif" width="100" />
+
+
+
+</div>
 
 ---
 
@@ -67,8 +60,6 @@ player.levelUp(); // Ready for new challenges!
 ║  ☕  COFFEE LEVEL: MAXIMUM                   ║
 ╚══════════════════════════════════════════════╝
 ```
-
-<img src="./images/YmoL.gif" width="200" alt="flames" />
 
 </div>
 
@@ -98,7 +89,20 @@ player.levelUp(); // Ready for new challenges!
 <hr>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=60&pause=1000&color=F70000&center=true&vCenter=true&width=1000&height=100&lines=GAME+OVER)](https://git.io/typing-svg)
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+                                                    
+      Press START to visit again! 🕹️           
+                                                    
+⭐ Star my repos if you like my code! ⭐     
+                                                    
+╚══════════════════════════════════════╝
+```
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=60&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=GAME+OVER)](https://git.io/typing-svg)
 
 
 
